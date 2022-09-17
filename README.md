@@ -6,7 +6,7 @@ Link course: https://zerotomastery.io/courses/coding-bootcamp/
 
 1- Instalar Node.js
 
-2- En la carpeta del proyecto, ejecuta npm install
+2- En la carpeta del proyecto, ejecutar npm install
 
-3- Ejecuta npm start
+3- Ejecutar npm start
 
